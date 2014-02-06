@@ -17,3 +17,4 @@ There are couple of files to do this in nice flow
   
 5. index.php - Get user profile info and store it in db
 
+reference: https://github.com/abraham/twitteroauth
